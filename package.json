@@ -1,0 +1,8 @@
+{
+  "name": "Kayro",
+  "version": "2.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
